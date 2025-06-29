@@ -1,0 +1,965 @@
+                                                         
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        17-06-2025  08:45 AM         129859 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
+
+
+    Directory: C:\Temp\SegomaData
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        17-06-2025  08:45 AM         309218 ClientList.xml                                                       
+-a----        17-06-2025  08:45 AM           1410 DefultPhotographyPlans.xml                                           
+-a----        17-06-2025  08:45 AM         296716 PhotographyPlans.xml                                                 
+-a----        26-06-2025  03:55 PM         106713 user.config                                                          
+
+
