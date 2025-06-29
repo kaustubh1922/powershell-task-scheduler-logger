@@ -1,0 +1,1 @@
+Get-ChildItem C:\Temp\SegomaData >> C:\Temp\log.txt
